@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36499
     wikipedia: http://en.wikipedia.org/wiki/John_Luther_Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33616#The-Way-of-the-Gods
 gutenberg_issued: '2010-09-03'
 gutenberg_type: Text
 identifiers:
