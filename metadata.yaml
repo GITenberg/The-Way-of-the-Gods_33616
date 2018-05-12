@@ -1,0 +1,27 @@
+_repo: The-Way-of-the-Gods_33616
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33616-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Long, John Luther
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '36499'
+    url: http://www.gutenberg.org/2009/agents/36499
+    wikipedia: http://en.wikipedia.org/wiki/John_Luther_Long
+description: ''
+gutenberg_issued: '2010-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Fiction'
+- !lcc 'PS'
+title: The Way of the Gods
+url: http://www.gutenberg.org/ebooks/33616
